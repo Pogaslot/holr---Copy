@@ -1,0 +1,106 @@
+<html>
+  <head>
+    <title>ABASSMA DRINKS STORE ONLINE REGISTRATION FORM</title>
+    </head>
+    <body>
+        <h1 style-text-align:center>ABASSMA DRINKS STORE ONLINE REGISTRATION FORM</h1>
+        </body>
+        <table>
+                <tr>
+                    <td>
+                        name:
+                        </td>
+                        <td>
+                            <input type"text" placeholder="name" "name="">
+                        </td>
+                        </tr>
+                        <td>
+                            Phone Number:
+                        </td>
+                        <td>
+                            <input type="phone" placeholder="+233*********">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                            Email Id:
+                            </td>
+                            <td>
+                                <input type="email" placeholder="example@gmail.com">
+                                </td>
+                                </tr>
+                                <td>
+                                    password:
+                                    </td>
+                                    <td>
+                                        <input type="password" placeholder="password">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Gender:
+                                        </td>
+                                        <td>
+                                            <input type="male/feamle " placeholder="male/female">
+                                            </td>
+                                            </tr>
+                                            <tr>
+                                            <td>
+                           Bank Id:
+                         <input type="Bank Id" placeholder="Bank Id">
+                         </td>
+                         </tr>
+                         <td>
+                         age:
+                         <input type ="age" placeholder="age">
+                         </td>
+                         </tr>
+                         <td>
+                         address:
+                         <input type="text" placeholder="text">
+                         </td>
+                         </tr>
+                         <td>
+                         occupation:
+                         <input type="work" placeholder"exampletrading">
+                         </td>
+                         </tr>
+                         <td>
+                         <input type="submit">
+                         </form>
+                         </body>
+                         </html>
+                         <a href="http://www.pogaslot.com">
+                         
+
+
+                         
+                         
+                         	
+                         	
+                         	
+                
+                                            
+                                            
+                        
+
+                                            
+
+
+
+
+
+
+
+                        
+                        
+                        
+                
+                
+                        
+
+
+                        
+                        
+
+
